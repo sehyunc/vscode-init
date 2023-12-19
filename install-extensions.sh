@@ -1,0 +1,14 @@
+code --install-extension biomejs.biome
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension ChakrounAnas.turbo-console-log
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension GitHub.copilot
+code --install-extension GitHub.copilot-chat
+code --install-extension ms-vscode.vscode-typescript-next
+code --install-extension naumovs.color-highlight
+code --install-extension PKief.material-icon-theme
+code --install-extension wix.vscode-import-cost
+code --install-extension yoavbls.pretty-ts-errors
