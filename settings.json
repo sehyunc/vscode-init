@@ -6,16 +6,28 @@
     "source.fixAll.eslint": "explicit",
     "source.fixAll.tslint": "explicit"
   },
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
   "editor.cursorSmoothCaretAnimation": "on",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.inlineSuggest.enabled": true,
   "editor.minimap.enabled": false,
   "editor.stickyScroll.enabled": true,
   "editor.unicodeHighlight.invisibleCharacters": false,
-  "emmet.excludeLanguages": ["typescriptreact"],
+  "emmet.excludeLanguages": [
+    "typescriptreact"
+  ],
   "eslint.lintTask.enable": true,
-  "eslint.validate": ["markdown"],
+  "eslint.validate": [
+    "markdown"
+  ],
   "github.copilot.enable": {
     "*": true,
     "plaintext": true,
